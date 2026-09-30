@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="129" height="44" viewBox="0 0 129 44" role="img" aria-label="ILC-HUB">
-<rect x=".5" y=".5" width="128" height="43" rx="22" fill="#14181d" stroke="#232a33"/>
-<circle cx="24" cy="22" r="5" fill="#4ade80"/>
-<text x="40" y="27.5" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#e7ecf1">ILC-HUB</text>
+<rect x=".5" y=".5" width="128" height="43" rx="22" fill="#f0efed" stroke="#d1cdd0"/>
+<rect x="19" y="17" width="10" height="10" fill="#c98a1d"/>
+<text x="40" y="27.5" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#0d0c10">ILC-HUB</text>
 </svg>

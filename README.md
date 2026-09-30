@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Eduardo Rodríguez Ávila · Físico e ingeniero de IA" width="100%">
+<img src="assets/banner.png" alt="Eduardo Rodríguez Ávila. Physicist and AI engineer: AI platforms that run in production." width="100%">
 
 <a href="https://eravila.dev"><img src="assets/btn-sitio.svg" alt="eravila.dev"></a>
 <a href="https://www.linkedin.com/in/eduardo-rdgz-avila/"><img src="assets/btn-linkedin.svg" alt="LinkedIn"></a>
@@ -8,20 +8,22 @@
 
 </div>
 
-## Qué hago
+## About
 
-- Construyo y opero **[ILC-HUB](https://ilc-hub.com)**, una plataforma de IA que genera planeaciones, actividades evaluables y exámenes para escuelas. Planear una materia pasó de dos o tres semanas a 30 o 40 minutos (estimado con mi experiencia como docente).
-- Trabajo con LLMs, RAG y agentes de código, y reviso los resultados con métricas que corresponden al problema.
-- Vengo de la física: primero modelo el problema, después construyo y opero.
+- I build AI platforms and run them in production. I founded **[ILC-HUB](https://ilc-hub.com)**, which generates lesson plans, assessable activities and exams for schools.
+- I work with LLMs, RAG and code agents, and I check the results with metrics that fit the problem.
+- I come from physics: I model the problem first, then build and operate.
 
-## Proyecto destacado
+## Featured project
 
-<a href="https://fraud-detection.eravila.dev"><img src="assets/fraud-detection.png" alt="fraud-detection: puntuación de fraude en tiempo real" width="100%"></a>
+<a href="https://eravila.dev/en/projects/ilc"><img src="assets/ilc-hub.png" alt="ILC-HUB: lesson planning, from the unit to the class" width="100%"></a>
 
-Puntuación de fraude en tiempo real sobre 1M de transacciones bancarias (BAF NeurIPS 2022): XGBoost entrenado y servido con FastAPI, frontend en Astro y un solo contenedor Docker en Railway.
+**Audhdel 3** is ILC-HUB's product: lesson-sequence planners for school coordinators, from the unit to the class, running in production. Planning a subject went from two or three weeks to 30–40 minutes (my estimate, from years as a teacher).
 
-**[Demo en vivo](https://fraud-detection.eravila.dev)** · [Código](https://github.com/EduardoRdgzA/fraud-detection)
+**[Case study](https://eravila.dev/en/projects/ilc)** · [ILC-HUB](https://ilc-hub.com)
+
+Also: **[fraud-detection](https://github.com/EduardoRdgzA/fraud-detection)**, real-time fraud scoring on 1M bank transactions (XGBoost, FastAPI, Astro, one Docker container). [Live demo](https://fraud-detection.eravila.dev)
 
 ## Stack
 
-<img src="assets/stack.svg" alt="Stack técnico: LLMs, RAG, agentes de código, OpenAI API, XGBoost, SHAP; Python, FastAPI, Pydantic, MongoDB; React, TypeScript, Astro; Docker, CI/CD, Railway" width="100%">
+<img src="assets/stack.svg" alt="Tech stack. AI: LLMs, RAG, code agents, OpenAI API, XGBoost, SHAP. Backend: Python, FastAPI, Pydantic, MongoDB. Frontend: React, TypeScript, Astro. Operations: Docker, CI/CD, Railway." width="100%">
